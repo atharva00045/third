@@ -6,6 +6,7 @@ import Navbar from './component/Navbar'
 import Handling from './component/Event'
 import Add from './component/Hooks'
 import RR from './component/Ok'
+import Hooks2 from './component/Hooks2'
 
 
 function App() {
@@ -44,7 +45,7 @@ function App() {
 <RR h1="atharva" />
      
 
-
+< Hooks2 />
 
 </>)}
 export default App
